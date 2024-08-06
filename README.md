@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá,bem vindos ao meu perfil⭐
 
-<!--
-**BryanAraujo28/BryanAraujo28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bryan e eu tenho 16 anos.
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https:/www.alura.com.br)
+- Estou aprender a programar.
+- Utilizo esse espaço para compartilha meu projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entra em contato comigo📧
+
+- 0000110408796sp@al.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/ojITD3keo5UAAAAi/demon-slayer-kimetsu-no-yaiba.gif)
