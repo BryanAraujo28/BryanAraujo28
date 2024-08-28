@@ -2,7 +2,7 @@
 
 Meu nome é Bryan e eu tenho 16 anos.
 
-- Estou estudando na [Alura](https:/www.alura.com.br)
+- Estou estudando na [Alura] (https:/www.alura.com.br)
 - Estou aprender a programar.
 - Utilizo esse espaço para compartilha meu projetos desenvolvidos.
 
